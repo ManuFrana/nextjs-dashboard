@@ -1,4 +1,4 @@
-import { roboto } from "./ui/fonts/fonts";
+import { roboto } from "./ui/fonts";
 import "./ui/global.css";
 
 export default function RootLayout({
