@@ -2,7 +2,7 @@ import { Lusitana, Roboto } from "next/font/google";
 
 export const roboto = Roboto({
   subsets: ["latin"],
-  weight: ["300", "400", "600"],
+  weight: ["300", "500", "700"],
 });
 
 export const lusitana = Lusitana({
